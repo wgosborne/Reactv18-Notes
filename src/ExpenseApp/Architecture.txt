@@ -1,0 +1,21 @@
+Components:
+- Form
+    - validation
+    - clear on submit
+    - description, amount, category
+- Filter
+- List
+    - description
+    - amount (with $)
+    - category
+    - total
+- delete button
+    - onclick remove from List
+
+
+Steps:
+1 Create Form Component, get it sending data back to app
+2 Creat List Component and have it receiving something from app
+3 Take what form gives back to App and pass it down to list
+4 Find out how to Filter
+5 Create Delete button Component
